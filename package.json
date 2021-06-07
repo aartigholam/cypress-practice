@@ -1,0 +1,23 @@
+{
+  "name": "cypress-practice",
+  "version": "1.0.0",
+  "description": "This is for cypress practice",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aartigholam/cypress-practice.git"
+  },
+  "author": "Aarti Gholam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aartigholam/cypress-practice/issues"
+  },
+  "homepage": "https://github.com/aartigholam/cypress-practice#readme",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
